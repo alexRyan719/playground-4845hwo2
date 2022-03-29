@@ -1,4 +1,5 @@
 // Control Flow
+
     public static char grade(int score) {
             
             if(score >= 90) {
@@ -27,7 +28,6 @@
         comment
         */
 // Main Method
-    public class Main {
 
         public static void main(String[] args) {
 
@@ -35,4 +35,4 @@
 
         }
 
-    }
+    

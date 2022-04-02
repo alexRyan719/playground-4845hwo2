@@ -22,6 +22,6 @@ plan:
   statement: statement_10.md
 
 projects:
-    java:
+  java:
     root: ./
     runner: techio/maven3-runner:1.0.0-openjdk-8

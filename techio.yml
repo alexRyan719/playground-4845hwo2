@@ -20,6 +20,6 @@ plan:
   statement: statement_9.md 
 
 projects:
-  Java:
+    Java:
     root: ./
     runner: techio/java-maven3-junit4-runner:1.1.4-java-8

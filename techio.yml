@@ -19,7 +19,7 @@ plan:
 - title: Example Algorithms
   statement: statement_9.md 
 
-projects:
-    Java:
-    root: ./
-    runner: techio/java-maven3-junit4-runner:1.1.4-java-8
+# projects:
+#     Java:
+#     root: ./
+#     runner: techio/java-maven3-junit4-runner:1.1.4-java-8

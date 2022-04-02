@@ -6,7 +6,7 @@ plan:
   statement: statement_2.md
 - title: Primitive Variables
   statement: statement_3.md
-- title: Functions
+- title: Objects
   statement: statement_4.md
 - title: Control Flow
   statement: statement_5.md

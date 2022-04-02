@@ -7,4 +7,9 @@ of storing multiple values. In the case of strings, you're storing and using an 
 
 # ArrayLists
 
-# 
+# 2D Arrays
+
+# Binary Search Trees
+
+# Graphs
+

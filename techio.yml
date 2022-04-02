@@ -18,6 +18,7 @@ plan:
   statement: statement_8.md
 - title: Example Algorithms
   statement: statement_9.md 
+
 projects:
   Java:
     root: ./

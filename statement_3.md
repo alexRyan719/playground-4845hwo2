@@ -16,5 +16,8 @@ variable. However, Java is more forgiving with print statements and variable typ
     System.out.println("My int is: " + myBoolean);
 
 
-Scope 
+# Scope 
 
+    Scope refers to whether a variable is able to be used in different parts of the code. This can also be thought of as relevancy. When declaring variables,
+    you can either declare global or local variables. Declaring a variable globally means that you are able to use it throughout the rest of your class file. 
+    Local variables are declared, used, and only available in the methods which you declared them in. 

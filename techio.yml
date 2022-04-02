@@ -24,4 +24,4 @@ plan:
 projects:
     Java:
     root: ./
-    runner: runner: techio/maven3-runner:1.0.0-openjdk-8
+    runner: techio/maven3-runner:1.0.0-openjdk-8

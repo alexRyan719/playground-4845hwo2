@@ -7,18 +7,17 @@ plan:
 - title: Primitive Variables
   statement: statement_3.md
 - title: Functions
-  statement: statement_3_b.md
-- title: Control Flow
   statement: statement_4.md
-- title: Loops
+- title: Control Flow
   statement: statement_5.md
-- title: Recursion
+- title: Loops
   statement: statement_6.md
-- title: Data Structures
+- title: Recursion
   statement: statement_7.md
-- title: Example Algorithms
+- title: Data Structures
   statement: statement_8.md
-  
+- title: Example Algorithms
+  statement: statement_9.md 
 projects:
   Java:
     root: ./

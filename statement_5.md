@@ -21,7 +21,11 @@ Control Flow
     }
 
 
-Switch 
+# Switch 
+
+Switch statements take an input and compare that with different "cases." Depending on which case the input matches, different lines of code will execute. 
+The keyword "break" is used to make sure that only those lines are executed. If you want multiple cases to execute, simply remove the keyword "break." Notice
+there are a couple break statements commented out already. 
 
     public class lessSimpleSwitch {
 

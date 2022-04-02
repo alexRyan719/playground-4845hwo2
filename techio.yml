@@ -21,7 +21,7 @@ plan:
 - title: Debugging
   statement: statement_10.md
 
-# projects:
-#     Java:
-#     root: ./
-#     runner: techio/java-maven3-junit4-runner:1.1.4-java-8
+projects:
+    Java:
+    root: ./
+    runner: techio/java-maven3-junit4-runner:1.1.4-java-8

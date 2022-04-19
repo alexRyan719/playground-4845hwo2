@@ -1,25 +1,25 @@
 title: Beginner Java Concepts
 plan:
 - title: Hello World
-  statement: statement.md
+  statement: helloWorld.md
 - title: Comments
-  statement: statement_2.md
+  statement: comments.md
 - title: Primitive Variables
-  statement: statement_3.md
+  statement: primitiveVariables.md
 - title: Objects
-  statement: statement_4.md
+  statement: objecs.md
 - title: Control Flow
-  statement: statement_5.md
+  statement: controlFlow.md
 - title: Loops
-  statement: statement_6.md
+  statement: loops.md
 - title: Switch Statement Algorithm
-  statement: statement_7.md
+  statement: switchStatementAlgorithm.md
 - title: Data Structures
-  statement: statement_8.md
+  statement: dataStructures.md
 - title: Example Algorithms
-  statement: statement_9.md 
+  statement: exampleAlgorithms.md 
 - title: Debugging
-  statement: statement_10.md
+  statement: debugging.md
 
 projects:
   javac:

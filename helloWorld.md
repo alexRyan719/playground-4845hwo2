@@ -11,8 +11,16 @@ Specifically, we're seeing the String value between the double quotes (" ").
 
     }
 
+# Methods
+
 This early program also demonstrates an example of a method. Specifically, this is the Main method that is usually included in smaller projects. You can also 
 have a Main class file instead of having Main methods in every class file. 
+
+Methods are sections of code that can be called or invoked. It's good practice to separate out specific tasks into their own methods. There are also several
+built-in methods that come included with Java. When in doubt, try using searching "Java" and specific keywords online. Often, you'll find that someone already 
+built a tool you can use in your own code. 
+
+# Keywords / Reserved Words
 
 There are certain keywords in Java that are reserved to serve a specific purpose. In the example above, the words public, static, void, String[], system, 
 out, and println are all reserved to mean specific things. "args" is commonly used, but is really only a variable name that can be changed. 

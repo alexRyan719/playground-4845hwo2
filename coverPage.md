@@ -20,3 +20,4 @@ Until I configure the interactive examples, you can copy and paste code into you
 
 CodinGame is just the most recent installment in my journey to becoming a Computer Science Educator. For additional tutorial resources, look at my profile and
 follow the links! 
+

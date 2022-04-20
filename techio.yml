@@ -1,5 +1,7 @@
 title: Beginner Java Concepts
 plan:
+- title: Cover Page
+  statement: coverPage.md
 - title: Intro
   statement: intro.md
 - title: Hello World

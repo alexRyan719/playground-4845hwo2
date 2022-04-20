@@ -7,7 +7,7 @@ plan:
 - title: Primitive Variables
   statement: primitiveVariables.md
 - title: Objects
-  statement: objecs.md
+  statement: objects.md
 - title: Control Flow
   statement: controlFlow.md
 - title: Loops

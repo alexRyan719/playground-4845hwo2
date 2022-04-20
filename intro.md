@@ -1,3 +1,5 @@
+# UNDER CONSTRUCTION
+
 # Welcome to Beginner Java Concepts!
 
 And welcome to the wonderful world of Computer Science! So, first off, this playground is "under construction." That means that I'm still working on a few 

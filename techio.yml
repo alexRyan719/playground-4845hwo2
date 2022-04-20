@@ -1,5 +1,7 @@
 title: Beginner Java Concepts
 plan:
+- title: Intro
+  statement: intro.md
 - title: Hello World
   statement: helloWorld.md
 - title: Comments

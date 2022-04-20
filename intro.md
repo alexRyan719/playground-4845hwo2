@@ -18,3 +18,7 @@ start at the basics.
 
 # Programming Concepts in a Nutshell
 
+All computer programming languages require you to know a few certain concepts. These are concepts like Input / Output, Primitive Variables, Comments, Control 
+Flow, Loops, and Objects. Then, it's a matter of tying it all together into a functioning piece of code! 
+
+

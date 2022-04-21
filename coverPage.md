@@ -8,6 +8,9 @@ things, but there is still value in this guide!
 The main thing I'm working on is adding interactive examples. For now, you can copy the code snippets and run them in your local development environment.
 It's a good idea to have a local development environment for any coding language you want to be familiar with. 
 
+I'm also still working on more examples of algorithms and more complex concepts. For anyone wanting to get into the tech industry, I recommend checking out my
+Beginner Python Concepts playground as well. It's very useful to be able to translate coding concepts into multiple coding languages. 
+
 # Integrated Development Environment (IDE)
 
 For just starting out, I recommend using Eclipse for your Java IDE. You can download your own copy for free here:
@@ -26,8 +29,9 @@ people watching the ads on my streams (live and past streams, but only on Twitch
 become a partner within a year or so. 
 
 However, this is all done in an effort to provide free Computer Science education to anyone willing to learn. I used to tutor freshmen and sophmore CS students
-at CSU and love being able to introduce others to the wonderful world of CS! Problem solving with code is a mental exercise and those "ah-ha!" moments release 
-endorphins all the same.  
+at CSU and love being able to introduce others to the wonderful world of CS! My end goal was to become a professor or teacher in Computer Science. With wonderful
+tools like CodinGame, Twitch, Codepen, Replit, and YouTube, I'm well on my way! And by that, I mean that my reward is the intrinsic value of helping others. Still,
+I'm not gonna be mad if you kickback some in appreciation. 
 
 # Twitch - algore719 
 https://www.twitch.tv/algore719

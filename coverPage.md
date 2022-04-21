@@ -19,5 +19,13 @@ Until I configure the interactive examples, you can copy and paste code into you
 # My Existing Java Resources
 
 CodinGame is just the most recent installment in my journey to becoming a Computer Science Educator. For additional tutorial resources, look at my profile and
-follow the links! 
+follow the links!  
 
+If you like my work, consider subscribing to my YouTube channel and or following me on the Twitch! I'm an affiliate on Twitch, so I actually earn revenue from 
+watching the ads and buying subscriptions. YouTube I'm still far off from, but could eventually become a partner. 
+
+# Twitch - algore719 
+https://www.twitch.tv/algore719
+
+# YouTube - a-Rye
+https://www.youtube.com/channel/UCqfrRoUg5dtY-i5xZrB0ixg

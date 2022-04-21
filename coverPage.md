@@ -26,7 +26,7 @@ people watching the ads on my streams (live and past streams, but only on Twitch
 become a partner within a year or so. 
 
 However, this is all done in an effort to provide free Computer Science education to anyone willing to learn. I used to tutor freshmen and sophmore CS students
-at CSU and love being able to introduce others to the wonderful world of CS! Problem solving with code is a mental exercise and tose "ah-ha!" moments release 
+at CSU and love being able to introduce others to the wonderful world of CS! Problem solving with code is a mental exercise and those "ah-ha!" moments release 
 endorphins all the same.  
 
 # Twitch - algore719 

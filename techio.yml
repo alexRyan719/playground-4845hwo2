@@ -26,7 +26,7 @@ plan:
   statement: debugging.md
 
 projects:
-  jbc:
+  java:
     root: ./projects/jbc/src
     runner: techio/maven3-runner:1.0.0-openjdk-8
     #runner: techio/java-maven3-junit4-runner:1.1.4-java-8

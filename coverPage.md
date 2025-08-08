@@ -17,7 +17,10 @@ For just starting out, I recommend using Eclipse for your Java IDE. You can down
 
 https://www.eclipse.org/ide
 
-Until I configure the interactive examples, you can copy and paste code into your Eclipse project. 
+Until I configure the interactive examples, you can copy and paste code into your Eclipse project. For how to 
+install and use Eclipse, you can search YouTube here:
+
+https://www.youtube.com/results?search_query=how+to+install+and+use+eclipse+for+java
 
 # My Existing Java Resources
 
